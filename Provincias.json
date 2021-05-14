@@ -1,0 +1,218 @@
+[
+		{
+			"provincia": "Azuay",
+			"poblacion": 881394,
+			"total": 449,
+			"nuevas": 227,
+			"probables": 36,
+			"lat": "-28974140000000000",
+			"lng": -79.004481
+		},
+		{
+			"provincia": "Bolívar",
+			"poblacion": 209933,
+			"total": 101,
+			"nuevas": 30,
+			"probables": 22,
+			"lat": "-1.6055560000000003",
+			"lng": -79.003056
+		},
+		{
+			"provincia": "Cañar",
+			"poblacion": 281396,
+			"total": 130,
+			"nuevas": 27,
+			"probables": 10,
+			"lat": "0.81218",
+			"lng": -77.71633
+		},
+		{
+			"provincia": "Carchi",
+			"poblacion": 186869,
+			"total": 253,
+			"nuevas": 131,
+			"probables": 4,
+			"lat": "-2.733333",
+			"lng": -78.833333
+		},
+		{
+			"provincia": "Chimborazo",
+			"poblacion": 524004,
+			"total": 424,
+			"nuevas": 80,
+			"probables": 132,
+			"lat": "-1.674347",
+			"lng": -78.648294
+		},
+		{
+			"provincia": "Cotopaxi",
+			"poblacion": 488716,
+			"total": 451,
+			"nuevas": 140,
+			"probables": 104,
+			"lat": "-0.933333",
+			"lng": -78.616667
+		},
+		{
+			"provincia": "El Oro",
+			"poblacion": 715751,
+			"total": 975,
+			"nuevas": 406,
+			"probables": 243,
+			"lat": "-3.2666670000000006",
+			"lng": -79.966667
+		},
+		{
+			"provincia": "Esmeraldas",
+			"poblacion": 591083,
+			"total": 357,
+			"nuevas": 116,
+			"probables": 73,
+			"lat": "1.05",
+			"lng": -79.2
+		},
+		{
+			"provincia": "Galápagos",
+			"poblacion": 33042,
+			"total": 10,
+			"nuevas": 6,
+			"probables": 7,
+			"lat": "-0.7999999999999999",
+			"lng": -89.4
+		},
+		{
+			"provincia": "Guayas",
+			"poblacion": 4387434,
+			"total": 2449,
+			"nuevas": 590,
+			"probables": 1770,
+			"lat": "-2.183333",
+			"lng": -79.883333
+		},
+		{
+			"provincia": "Imbabura",
+			"poblacion": 476257,
+			"total": 366,
+			"nuevas": 152,
+			"probables": 23,
+			"lat": "0.362678",
+			"lng": -78.130667
+		},
+		{
+			"provincia": "Loja",
+			"poblacion": 521154,
+			"total": 511,
+			"nuevas": 265,
+			"probables": 133,
+			"lat": "-3.9833330000000006",
+			"lng": -79.2
+		},
+		{
+			"provincia": "Los Ríos",
+			"poblacion": 921763,
+			"total": 447,
+			"nuevas": 86,
+			"probables": 358,
+			"lat": "-1.8",
+			"lng": -79.533333
+		},
+		{
+			"provincia": "Manabí",
+			"poblacion": 1562079,
+			"total": 2265,
+			"nuevas": 968,
+			"probables": 1161,
+			"lat": "-1.056181",
+			"lng": -80.455217
+		},
+		{
+			"provincia": "Morona Santiago",
+			"poblacion": 196535,
+			"total": 56,
+			"nuevas": 20,
+			"probables": 6,
+			"lat": "-2.3000000000000004",
+			"lng": -78.116667
+		},
+		{
+			"provincia": "Napo",
+			"poblacion": 133705,
+			"total": 97,
+			"nuevas": 19,
+			"probables": 4,
+			"lat": "-0.989",
+			"lng": -77.8159
+		},
+		{
+			"provincia": "Orellana",
+			"poblacion": 161338,
+			"total": 74,
+			"nuevas": 21,
+			"probables": 22,
+			"lat": "-0.466667",
+			"lng": -76.966667
+		},
+		{
+			"provincia": "Pastaza",
+			"poblacion": 114202,
+			"total": 81,
+			"nuevas": 18,
+			"probables": 19,
+			"lat": "-1.066667",
+			"lng": -78.001111
+		},
+		{
+			"provincia": "Pichincha",
+			"poblacion": 3228233,
+			"total": 2852,
+			"nuevas": 827,
+			"probables": 351,
+			"lat": "-0.218611",
+			"lng": -78.509722
+		},
+		{
+			"provincia": "Santa Elena",
+			"poblacion": 401178,
+			"total": 412,
+			"nuevas": 27,
+			"probables": 281,
+			"lat": "-2.2267",
+			"lng": -80.8583
+		},
+		{
+			"provincia": "Sto. Domingo Tsáchilas",
+			"poblacion": 511151,
+			"total": 631,
+			"nuevas": 257,
+			"probables": 138,
+			"lat": "-0.254167",
+			"lng": -79.171944
+		},
+		{
+			"provincia": "Sucumbíos",
+			"poblacion": 230503,
+			"total": 162,
+			"nuevas": 64,
+			"probables": 7,
+			"lat": "0.08472200000000002",
+			"lng": -76.882778
+		},
+		{
+			"provincia": "Tungurahua",
+			"poblacion": 590600,
+			"total": 462,
+			"nuevas": 121,
+			"probables": 334,
+			"lat": "-1.241667",
+			"lng": -78.619722
+		},
+		{
+			"provincia": "Zamora Chinchipe",
+			"poblacion": 120416,
+			"total": 92,
+			"nuevas": 36,
+			"probables": 5,
+			"lat": "-4.12",
+			"lng": -78.8
+		}
+	]
