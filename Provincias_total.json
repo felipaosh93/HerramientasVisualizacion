@@ -1,6 +1,7 @@
 {
 	"provincias": [
 		{
+			"cod_prov": "01",
 			"provincia": "Azuay",
 			"poblacion": 881394,
 			"total": 449,
@@ -10,6 +11,7 @@
 			"lng": -79.004481
 		},
 		{
+			"cod_prov": "02",
 			"provincia": "Bolívar",
 			"poblacion": 209933,
 			"total": 101,
@@ -19,6 +21,7 @@
 			"lng": -79.003056
 		},
 		{
+			"cod_prov": "03",
 			"provincia": "Cañar",
 			"poblacion": 281396,
 			"total": 130,
@@ -28,6 +31,7 @@
 			"lng": -77.71633
 		},
 		{
+			"cod_prov": "04",
 			"provincia": "Carchi",
 			"poblacion": 186869,
 			"total": 253,
@@ -37,6 +41,7 @@
 			"lng": -78.833333
 		},
 		{
+			"cod_prov": "06",
 			"provincia": "Chimborazo",
 			"poblacion": 524004,
 			"total": 424,
@@ -46,6 +51,7 @@
 			"lng": -78.648294
 		},
 		{
+			"cod_prov": "05",
 			"provincia": "Cotopaxi",
 			"poblacion": 488716,
 			"total": 451,
@@ -55,6 +61,7 @@
 			"lng": -78.616667
 		},
 		{
+			"cod_prov": "07",
 			"provincia": "El Oro",
 			"poblacion": 715751,
 			"total": 975,
@@ -64,6 +71,7 @@
 			"lng": -79.966667
 		},
 		{
+			"cod_prov": "08",
 			"provincia": "Esmeraldas",
 			"poblacion": 591083,
 			"total": 357,
@@ -73,6 +81,7 @@
 			"lng": -79.2
 		},
 		{
+			"cod_prov": "20",
 			"provincia": "Galápagos",
 			"poblacion": 33042,
 			"total": 10,
@@ -82,6 +91,7 @@
 			"lng": -89.4
 		},
 		{
+			"cod_prov": "09",
 			"provincia": "Guayas",
 			"poblacion": 4387434,
 			"total": 2449,
@@ -91,6 +101,7 @@
 			"lng": -79.883333
 		},
 		{
+			"cod_prov": "10",
 			"provincia": "Imbabura",
 			"poblacion": 476257,
 			"total": 366,
@@ -100,6 +111,7 @@
 			"lng": -78.130667
 		},
 		{
+			"cod_prov": "11",
 			"provincia": "Loja",
 			"poblacion": 521154,
 			"total": 511,
@@ -109,6 +121,7 @@
 			"lng": -79.2
 		},
 		{
+			"cod_prov": "12",
 			"provincia": "Los Ríos",
 			"poblacion": 921763,
 			"total": 447,
@@ -118,6 +131,7 @@
 			"lng": -79.533333
 		},
 		{
+			"cod_prov": "13",
 			"provincia": "Manabí",
 			"poblacion": 1562079,
 			"total": 2265,
@@ -127,7 +141,8 @@
 			"lng": -80.455217
 		},
 		{
-			"provincia": "Morona Santiago",
+			"cod_prov": "14",
+			"provincia": "Morona Sant.",
 			"poblacion": 196535,
 			"total": 56,
 			"nuevas": 20,
@@ -136,6 +151,7 @@
 			"lng": -78.116667
 		},
 		{
+			"cod_prov": "15",
 			"provincia": "Napo",
 			"poblacion": 133705,
 			"total": 97,
@@ -145,6 +161,7 @@
 			"lng": -77.8159
 		},
 		{
+			"cod_prov": "22",
 			"provincia": "Orellana",
 			"poblacion": 161338,
 			"total": 74,
@@ -154,6 +171,7 @@
 			"lng": -76.966667
 		},
 		{
+			"cod_prov": "16",
 			"provincia": "Pastaza",
 			"poblacion": 114202,
 			"total": 81,
@@ -163,6 +181,7 @@
 			"lng": -78.001111
 		},
 		{
+			"cod_prov": "17",
 			"provincia": "Pichincha",
 			"poblacion": 3228233,
 			"total": 2852,
@@ -172,6 +191,7 @@
 			"lng": -78.509722
 		},
 		{
+			"cod_prov": "24",
 			"provincia": "Santa Elena",
 			"poblacion": 401178,
 			"total": 412,
@@ -181,7 +201,8 @@
 			"lng": -80.8583
 		},
 		{
-			"provincia": "Sto. Domingo Tsáchilas",
+			"cod_prov": "23",
+			"provincia": "Sto Domingo T",
 			"poblacion": 511151,
 			"total": 631,
 			"nuevas": 257,
@@ -190,6 +211,7 @@
 			"lng": -79.171944
 		},
 		{
+			"cod_prov": "21",
 			"provincia": "Sucumbíos",
 			"poblacion": 230503,
 			"total": 162,
@@ -199,6 +221,7 @@
 			"lng": -76.882778
 		},
 		{
+			"cod_prov": "18",
 			"provincia": "Tungurahua",
 			"poblacion": 590600,
 			"total": 462,
@@ -208,7 +231,8 @@
 			"lng": -78.619722
 		},
 		{
-			"provincia": "Zamora Chinchipe",
+			"cod_prov": "19",
+			"provincia": "Zamora Chi.",
 			"poblacion": 120416,
 			"total": 92,
 			"nuevas": 36,
